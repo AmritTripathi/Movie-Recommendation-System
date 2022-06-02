@@ -1,2 +1,3 @@
 # Movie-Recommendation-System
-This is a Movie Recommendation System made by me on Google Colab.
+A Python script to recommend movies to the user based on user's favourite movie
+
